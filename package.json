@@ -1,0 +1,7 @@
+{
+  "name": "stackos",
+  "version": "1.0.0",
+  "description": "Simple OS info - Demo module",
+  "main": "stackos.js",
+  "license": "MIT"
+}
